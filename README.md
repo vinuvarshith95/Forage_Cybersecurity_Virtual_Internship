@@ -49,6 +49,6 @@ This program has helped solidify my interest in cybersecurity and given me a sol
 
 **Name:** Vinu Varshith  
 **LinkedIn:** [linkedin.com/in/vinuvarshith](https://linkedin.com/in/vinuvarshith)  
-**Email:** [your-email@example.com]
+
 
 
