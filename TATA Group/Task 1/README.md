@@ -10,8 +10,6 @@ TCS offers a range of IAM services designed to address the evolving cybersecurit
 - **Identity as a service (IDaaS)**: Simplifying identity management in the cloud for secure access to cloud-based resources.
 - **Managed IAM services**: Offering ongoing monitoring and maintenance of IAM platforms, incident response, and security updates.
 
----
-
 ## Why clients choose TCS for IAM:
 
 - **Expertise**: A team of IAM specialists brings extensive knowledge to every project.
