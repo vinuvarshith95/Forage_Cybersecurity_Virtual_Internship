@@ -1,28 +1,53 @@
-# Example Answer
+## Task 2 – Response
 
-Great work! Take a look at the example answer below to see how a professional would have attempted this task. Think about what you did well and how you can improve.
+### 1. What kind of attack has happened and why do you think so?
+
+This was a **phishing attack** that likely escalated into a **ransomware** incident.
+
+- The initial email, disguised as a message from HR, directed employees to a fake portal. This is a common phishing tactic used to steal login credentials.
+- The presence of an error page after credential submission strongly indicates **credential harvesting**.
+- Later reports of issues opening file shares and Word documents are **classic signs of ransomware**, where files are either encrypted or corrupted.
 
 ---
 
-## Task 2 Example Answer:
+### 2. As a cyber security analyst, what are the next steps to take?
 
-1. **What kind of attack has happened, and why do you think so?**  
-   - In a **phishing** attack, the perpetrator pretends to be a reputable entity or person via email to obtain sensitive information like login credentials. In this case, the attacker disguised as the company’s HR by asking employees to update their timesheets.  
-   - **Malware** is intrusive software designed to harm or exploit computers. In this case, the user executed a phishing attack payload that may have installed malware onto their system. As users cannot open a Word document that they have always been able to open, this could be ransomware or a virus.
+- **Alert the incident response team** and activate the response plan.
+- **Disconnect compromised systems** from the network to prevent lateral spread.
+- **Notify all employees** about the phishing email and instruct them not to interact with it.
+- **Check logs and email filters** to trace affected users and how the email bypassed defenses.
+- Begin **threat hunting** to detect any malicious payloads or indicators of compromise (IOCs).
+- **Reset passwords** for potentially affected user accounts.
+- **Inform management and legal/compliance** teams if sensitive data may be impacted.
 
-2. **As a cyber security analyst, what are the next steps to take? List all that apply.**  
-   - Begin documenting the investigation.  
-   - Prioritise handling the incident based on factors such as functional impact, information impact and recoverability effort.  
-   - Advise users to change and strengthen all logins, passwords and security questions.
+---
 
-3. **How would you contain, resolve and recover from this incident? List all answers that apply.**  
-   - Identify and mitigate all exploited vulnerabilities.  
-   - Attempt to remove malware from all hosts affected.  
-   - Return affected systems to an operationally ready state.  
-   - Confirm that the affected systems are functioning normally.  
-   - Stay alert and continue to monitor for any similar future activity.
+### 3. How would you contain, resolve, and recover from this incident?
 
-4. **What activities should be performed post-incident?**  
-   - Follow-up report detailing everything that occurred.  
-   - Hold a lesson-learnt meeting.  
-   - Educate: Create a cyber awareness program for employees. Such programs help employees identify future phishing emails.
+#### Containment
+- Isolate infected systems immediately.
+- Block access to the phishing domain at the firewall or DNS level.
+- Suspend or reset accounts suspected of being compromised.
+
+#### Resolution
+- Perform full malware scans and forensic investigation.
+- Remove any discovered malware or backdoors.
+- Reimage infected systems if necessary.
+- Apply missing security patches and update antivirus/EDR tools.
+
+#### Recovery
+- Restore files and systems from **verified clean backups**.
+- Gradually reconnect restored systems to the network.
+- Monitor systems closely for any reinfection or anomalies.
+- Verify full system functionality before marking the incident as resolved.
+
+---
+
+### 4. What activities should be performed post-incident?
+
+- Conduct a **post-incident review** to evaluate response effectiveness.
+- Update the **incident response plan** based on lessons learned.
+- Document the incident thoroughly in a **formal report**.
+- Deliver **targeted security training** to help employees recognize phishing attempts.
+- Review and enhance **technical controls** such as MFA, email filtering, and endpoint protection.
+- Test and validate **backup and disaster recovery processes** to ensure future readiness.
