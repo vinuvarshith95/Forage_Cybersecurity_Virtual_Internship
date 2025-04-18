@@ -61,7 +61,7 @@ Let me know if you’d like a workshop framework or a deeper dive into any speci
 Best regards,  
 **Forager**
 
-# Example Answer
+
 
 # Example Answer
 
