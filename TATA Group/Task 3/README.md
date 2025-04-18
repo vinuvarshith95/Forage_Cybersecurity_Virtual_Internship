@@ -15,7 +15,7 @@ To design IAM solutions that align with an organisation's business processes and
 - **Scalability:** Design IAM solutions with scalability in mind. As TechCorp grows, the IAM system should seamlessly accommodate an increasing number of users and resources.
 - **Integration:** Ensure that IAM solutions integrate smoothly with existing systems and applications used by TechCorp. This minimises disruptions to business operations.
 - **User-centric design:** Prioritise the user experience by making access management processes intuitive and user-friendly. This reduces friction for employees and partners using IAM systems.
-- 
+
 By applying these strategies, you'll be better equipped to design IAM solutions that not only enhance cybersecurity but also align with TechCorp's business processes and objectives.
 
 # Enhancing customer experience with IAM
