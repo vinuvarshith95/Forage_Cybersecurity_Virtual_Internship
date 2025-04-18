@@ -1,6 +1,6 @@
 # Commonwealth Bank Cybersecurity Virtual Experience (Forage)
 
-Welcome to my repository for the **Commonwealth Bank Cybersecurity Virtual Experience** hosted on [Forage](https://www.theforage.com/). This virtual internship provided a hands-on introduction to real-world cybersecurity tasks within the context of a major financial institution.
+This virtual internship provided a hands-on introduction to real-world cybersecurity tasks within the context of a major financial institution.
 
 ## Overview
 
