@@ -6,8 +6,6 @@ Hi Ravi,
 
 Thanks for the detailed context. Based on the information, here’s a high-level summary of TechCorp’s situation and a streamlined checklist to guide our IAM readiness assessment.
 
----
-
 ## Summary of Key Considerations
 
 TechCorp is a global technology leader with over **150,000 employees** and operations in more than **100 countries**. With a strong focus on **innovation** and **digital transformation**, the company is looking to:
@@ -19,8 +17,6 @@ TechCorp is a global technology leader with over **150,000 employees** and opera
 While an IAM strategy is already in place, it needs re-evaluation to ensure it supports current challenges and future goals.
 
 **Key challenges** include safeguarding a large digital footprint, providing seamless access to diverse users, and improving operational efficiency through automation. The IAM focus areas—**user lifecycle management**, **access control**, **compliance**, **integration**, and **user experience**—will shape our assessment.
-
----
 
 ## IAM Readiness Assessment – Key Steps
 
@@ -52,8 +48,6 @@ While an IAM strategy is already in place, it needs re-evaluation to ensure it s
 - Evaluate threat detection and monitoring capabilities.
 - Review incident response processes within the IAM setup.
 
----
-
 We can begin with **stakeholder interviews** and **system walkthroughs** to validate these focus areas. This will help us identify maturity gaps and recommend actionable improvements tailored to TechCorp’s environment.
 
 Let me know if you’d like a workshop framework or a deeper dive into any specific area.
@@ -67,15 +61,11 @@ Best regards,
 
 Great work! Take a look at the example answer below to see how a professional would have attempted this task. Think about what you did well and how you can improve.
 
----
-
 **Subject:** Re: TechCorp Brief
 
 Hi Ravi,
 
 Thank you for providing a detailed brief on TechCorp Enterprises. Based on the information you’ve shared and TechCorp’s context, I’ve prepared a checklist for evaluating their IAM strategy and readiness. Here’s a summary of key considerations and steps:
-
----
 
 ## IAM Strategy Assessment Checklist for TechCorp Enterprises
 
@@ -108,8 +98,6 @@ Thank you for providing a detailed brief on TechCorp Enterprises. Based on the i
 - Evaluate user interfaces for ease of use and accessibility.
 - Check for self-service capabilities for password resets and access requests.
 - Consider the user experience for both internal and external users.
-
----
 
 These are baseline assessment checkpoints to consider when assessing TechCorp’s IAM strategy. It is essential to align IAM priorities with business goals and the need for operational efficiency. Our approach will include partnering closely with IT and security teams throughout the process.
 
