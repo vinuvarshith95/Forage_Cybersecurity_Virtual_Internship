@@ -1,6 +1,6 @@
 # TCS Forage Cybersecurity Virtual Experience Program
 
-Welcome to the repository documenting my journey through the **Tata Group Cybersecurity Analyst Virtual Experience Program** hosted on [Forage](https://www.theforage.com/).
+This virtual internship provided a hands-on introduction to Identity and Access Management (IAM). I gained practical experience in assessing IAM strategies, designing tailored solutions, and planning secure, scalable implementations in an enterprise environment
 
 ## Overview
 
