@@ -4,13 +4,9 @@
 **To:** forager@tcs.com  
 **Subject:** TechCorp Brief
 
----
-
 Greetings, team!
 
 As we evaluate TechCorp Enterprises’ readiness for IAM implementation, we need to set the stage with a clear understanding of our client’s context. TechCorp is known for pushing the boundaries of technology innovation. They operate in a fast-paced industry and consistently roll out groundbreaking solutions and products that change the game.
-
----
 
 ## Organisational Profile
 
@@ -20,16 +16,12 @@ As we evaluate TechCorp Enterprises’ readiness for IAM implementation, we need
 - Digital assets: A plethora of proprietary software, systems, and data repositories  
 - TechCorp has embarked on a comprehensive digital transformation journey to maintain its competitive edge. This transformation is driven by the need to deliver innovative solutions faster, improve customer experiences, and harness the power of data.
 
----
-
 ## Challenges and Aspirations
 
 - **Security concerns:** With its expansive digital footprint, TechCorp is increasingly concerned about data breaches and cyber threats. Ensuring the security of their digital assets is a top priority.
 - **User experience:** TechCorp aims to provide a seamless and secure user experience for employees, partners, and customers accessing its digital platforms.
 - **Operational efficiency:** Improving governance across management and minimizing manual processes are key aspirations to improve operational efficiency.
 - **IAM strategy:** TechCorp has an existing IAM strategy in place, but it needs a thorough assessment to ensure it aligns with the organisation’s evolving needs. The strategy should address challenges, enhance security, and enable a smooth digital transformation.
-
----
 
 ## IAM Strategy Focus Areas
 
@@ -39,8 +31,6 @@ As we evaluate TechCorp Enterprises’ readiness for IAM implementation, we need
 - Integration with existing systems  
 - Enhanced user experience  
 - Threat and risk mitigation  
-
----
 
 Forager, can you please take a look at this information and provide a summary of the key considerations and steps we’ll need to take in assessing TechCorp’s readiness, along with a checklist?
 
